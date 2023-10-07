@@ -18,7 +18,7 @@
 </ul>
 
 <p align="center">
-  Ruby: 90% <br>
+  Ruby: 70% <br>
   <progress max="100" value="90"></progress><br>
   Python: 90% <br>
   <progress max="100" value="90"></progress><br>
