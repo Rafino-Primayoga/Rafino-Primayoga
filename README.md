@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm a 15-year-old student from Indonesia who has been passionate about programming since the age of 12.
+  I'm a 16-year-old student from Indonesia who has been passionate about programming since the age of 12.
   I'm on a journey to become a skilled backend web developer, crafting the logic and functionality behind web applications.
 </p>
 
